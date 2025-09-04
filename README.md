@@ -4,7 +4,7 @@
 
 `Скриншот перенаправления запросов на разные серверы при обращении к HAProxy:`
 
-![Haproxy]((https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/haproxy-1.png))
+![Haproxy](https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/haproxy-1.png)
 `Конфигурационный файл HAProxy:`
 ```
 global
