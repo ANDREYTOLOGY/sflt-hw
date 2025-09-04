@@ -2,9 +2,10 @@
 
 ### Задание 1
 
-`Скриншот созданного шаблона:`
+`Скриншот перенаправления запросов на разные серверы при обращении к HAProxy:`
 
-![Админка Zabbix](https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/zabbit-custom-template.png)
+![Haproxy]((https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/haproxy-1.png))
+`Конфигурационный файл HAProxy:`
 ```
 global
         log /dev/log    local0
