@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Чернышов Андрей`
+# Домашнее задание к занятию "`Резервное копирование`" - `Чернышов Андрей`
 
 ### Задание 1
 
@@ -7,7 +7,7 @@
 ![rsync-1](https://github.com/ANDREYTOLOGY/sflt-hw/blob/main/img/rsync-1.png)
 
 `Скриншот содержимого директорий:`
-![rsync-2](https://github.com/ANDREYTOLOGY/sflt-hw/blob/main/img/rsync-1.png)
+![rsync-2](https://github.com/ANDREYTOLOGY/sflt-hw/blob/main/img/rsync-2.png)
 
 `Конфигурационный файл HAProxy:`
 ```
