@@ -38,4 +38,5 @@ else
 fi
 ```
 `Результат выполнения задачи:`
+
 ![var-log](https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/var-log.png)
