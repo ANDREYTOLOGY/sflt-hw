@@ -2,9 +2,12 @@
 
 ### Задание 1
 
-`Скриншот перенаправления запросов на разные серверы при обращении к HAProxy:`
+`Скриншот команды rsync, которая создает зеркальную копию домашней директории пользователя в директорию /tmp/backup, исключает из синхронизации все директории, начинающиеся с точки (скрытые) и  подсчитывает хэш-суммы для всех файлов:`
 
-![Haproxy](https://github.com/ANDREYTOLOGY/zabbixx-hw/blob/main/img/haproxy-1.png)
+![rsync-1](https://github.com/ANDREYTOLOGY/sflt-hw/blob/main/img/rsync-1.png)
+
+`Скриншот содержимого директорий:`
+![rsync-2](https://github.com/ANDREYTOLOGY/sflt-hw/blob/main/img/rsync-1.png)
 
 `Конфигурационный файл HAProxy:`
 ```
